@@ -1,13 +1,16 @@
 ## Ciao <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm [Paolo De Angelis](https://github.com/DAP93)
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Ghithub](https://img.shields.io/badge/-@DAP93-informational?style=flat&logo=GitHub&logoColor=white&color=black)](https://github.com/DAP93)
+[![Linkedin Badge](https://img.shields.io/badge/-paolo_de_angelis-informatilnal?style=flat&logo=Linkedin&logoColor=white&color=0A66C2&link=https://www.linkedin.com/in/paolo-de-angelis/)](https://www.linkedin.com/in/paolo-de-angelis/)
+[![Researchgate Badge](https://img.shields.io/badge/-Paolo_De_Angelis-informatilnal?style=flat&logo=researchgate&logoColor=white&color=00CCBB&link=https://www.researchgate.net/profile/Paolo-De-Angelis)](https://www.researchgate.net/profile/Paolo-De-Angelis)
+[![ORCID Badge](https://img.shields.io/badge/-ORCID-informatilnal?style=flat&logo=orcid&logoColor=white&color=A6CE39&link=https://orcid.org/0000-0003-1866-2988)](https://orcid.org/0000-0003-1866-2988)
+[![Twitter Badge](https://img.shields.io/badge/-@Paolo1193-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2&link=https://twitter.com/Paolo1193)](https://twitter.com/Paolo1193)
+[![Mail Badge](https://img.shields.io/badge/-paolo.deangelis@polito.it-c14438?style=flat&logo=microsoftoutlook&logoColor=white&color=0078D4&link=mailto:paolo.deangelis@polito.it)](mailto:paolo.deangelis@polito.it)
+[![Instagram Badge](https://img.shields.io/badge/-dap.93-informatilnal?style=flat&logo=instagram&logoColor=white&color=E4405F&link=https://www.instagram.com/dap.93/)](https://www.instagram.com/dap.93/)
 
-### Nice to meet you![visitors](https://visitor-badge.deta.dev/badge?page_id=DAP93.DAP93&left_color=red&right_color=green)
+### Nice to meet you  ![visitors](https://visitor-badge.deta.dev/badge?page_id=DAP93.DAP93&left_color=black&right_color=blue)
 
-## Languages & Tools 👨‍💻 🛠
+## 👨‍💻 🛠 Technologies & Tools 
+
 <p align="center">
     <a href="https://github.com/alwinw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/alwinrwang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
@@ -27,12 +30,12 @@
     <a href="https://github.com/alwinw?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
 </p>
 
-## My GitHub Stats 📊
-![DAP93's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAP93)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAP93&layout=compact)
+## 📊 My GitHub Stats 
+![DAP93's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAP93&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAP93&theme=dark)
 
-## My Wakatime Stats ⌚
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DAP93)](https://github.com/anuraghazra/github-readme-stats)
+## ⌚ My Wakatime Stats 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DAP93&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
