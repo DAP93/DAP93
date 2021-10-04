@@ -36,11 +36,11 @@
 ## 📊 My GitHub Stats 
 
 <p align = "center">
-    <img alt="Top Langs" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DAP93&theme=dark" height= 183>
-    <img alt="DAP93's GitHub stats" src = "https://github-readme-stats.vercel.app/api?username=DAP93&theme=dark" height= 183>
+    <img alt="Top Langs" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DAP93&show_icons=true&theme=dark" height= 183>
+    <img alt="DAP93's GitHub stats" src = "https://github-readme-stats.vercel.app/api?username=DAP93&show_icons=true&theme=dark" height= 183>
     <br>
-    <a href="https://github.com/DAP93/SMaLL_best_practices" target="_blank"> <img alt="DAP93's contribution to SMaLL_best_practices" src = "https://github-readme-stats.vercel.app/api/pin/?username=DAP93&repo=SMaLL_best_practices&theme=dark" width = 400></a>
-    <a href="https://github.com/DAP93/lammps_wrapper" target="_blank"> <img alt="DAP93's contribution to lammps_wrapper" src = "https://github-readme-stats.vercel.app/api/pin/?username=DAP93&repo=lammps_wrapper&theme=dark" width = 400></a>
+    <a href="https://github.com/DAP93/SMaLL_best_practices" target="_blank"> <img alt="DAP93's contribution to SMaLL_best_practices" src = "https://github-readme-stats.vercel.app/api/pin/?username=DAP93&repo=SMaLL_best_practices&show_icons=true&theme=dark" width = 400></a>
+    <a href="https://github.com/DAP93/lammps_wrapper" target="_blank"> <img alt="DAP93's contribution to lammps_wrapper" src = "https://github-readme-stats.vercel.app/api/pin/?username=DAP93&repo=lammps_wrapper&show_icons=true&theme=dark" width = 400></a>
 </p>
 
 ## ⌚ My Wakatime Stats 
