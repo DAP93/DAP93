@@ -1,3 +1,5 @@
+<img width="300" alt="GIF" align="right" src="assets/gif/lisa_getinhere.gif">
+
 ## Ciao <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm [Paolo De Angelis](https://github.com/DAP93)
 [![Ghithub](https://img.shields.io/badge/-@DAP93-informational?style=flat&logo=GitHub&logoColor=white&color=black)](https://github.com/DAP93)
 [![Linkedin Badge](https://img.shields.io/badge/-paolo_de_angelis-informatilnal?style=flat&logo=Linkedin&logoColor=white&color=0A66C2&link=https://www.linkedin.com/in/paolo-de-angelis/)](https://www.linkedin.com/in/paolo-de-angelis/)
@@ -31,8 +33,14 @@
 </p>
 
 ## 📊 My GitHub Stats 
-![DAP93's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAP93&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAP93&theme=dark)
+
+<p align = "center">
+  <img alt="Top Langs" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DAP93&theme=dark" width = 300>
+  <img alt="DAP93's GitHub stats" src = "https://github-readme-stats.vercel.app/api?username=DAP93&theme=dark" width = 500>
+  <br>
+  <a href="https://github.com/DAP93/SMaLL_best_practices" target="_blank"> <img alt="DAP93's contribution to SMaLL_best_practices" src = "https://github-readme-stats.vercel.app/api/pin/?username=DAP93&repo=SMaLL_best_practices&theme=dark" width = 400></a>
+  <a href="https://github.com/DAP93/lammps_wrapper" target="_blank"> <img alt="DAP93's contribution to lammps_wrapper" src = "https://github-readme-stats.vercel.app/api/pin/?username=DAP93&repo=lammps_wrapper&theme=dark" width = 400></a>
+</p>
 
 ## ⌚ My Wakatime Stats 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DAP93&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
