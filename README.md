@@ -26,7 +26,7 @@
 [![Code - Matlab][3]](https://github.com/DAP93?tab=repositories&language=matlab)
 [![Code - LaTeX](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=2bbc8a)](https://github.com/DAP93?tab=repositories&language=TeX)
 
-![Skills](https://img.shields.io/badge/-Code-000000?style=flat-square&logo=Macy’s&logoColor=white)
+![Skills](https://img.shields.io/badge/-Skills-000000?style=flat-square&logo=Macy’s&logoColor=white)
 [![Skills - MD](https://img.shields.io/badge/CS_Method-Molecular_Dynamics-informational?style=flat&logoColor=white&color=2bbc8a&logo=Hack%20The%20Box)](https://en.wikipedia.org/wiki/Molecular_dynamics) 
 [![Skills - CFD](https://img.shields.io/badge/CS_Method-Computational_Fluid_Dynamics-informational?style=flat&logoColor=white&color=2bbc8a&logo=Hack%20The%20Box)](https://en.wikipedia.org/wiki/Computational_fluid_dynamics) 
 
